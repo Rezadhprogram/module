@@ -2,6 +2,8 @@
   <root>
     <mxCell id="0"/>
     <mxCell id="1" parent="0"/>
+    
+    <!-- Actors -->
     <mxCell id="2" value="مشتری" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
       <mxGeometry x="50" y="100" width="30" height="60" as="geometry"/>
     </mxCell>
@@ -86,8 +88,7 @@
       <mxGeometry x="200" y="2300" width="120" height="60" as="geometry"/>
     </mxCell>
 
-    <!-- Connections -->
-    <!-- Use Case to Actor -->
+    <!-- Connections: Use Case to Actor -->
     <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="6"/>
     <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3" target="7"/>
     <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4" target="20"/>
