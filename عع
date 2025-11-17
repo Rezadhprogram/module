@@ -1,0 +1,97 @@
+<mxGraphModel>
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    
+    <!-- Actors -->
+    <mxCell id="2" value="مشتری" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="100" width="30" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="3" value="تعمیرکار" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="200" width="30" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="4" value="مدیر سیستم" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="300" width="30" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="5" value="سیستم" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="50" y="400" width="30" height="60" as="geometry"/>
+    </mxCell>
+    
+    <!-- Use Cases -->
+    <mxCell id="6" value="ورود به سیستم" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="100" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="7" value="ثبت‌نام کاربران جدید" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="200" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="8" value="بازیابی رمز عبور" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="300" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="9" value="رزرو نوبت تعمیر خودرو" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="400" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="10" value="ویرایش یا لغو نوبت رزرو شده" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="500" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="11" value="پرداخت آنلاین هزینه خدمات" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="600" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="12" value="مشاهده وضعیت تعمیر خودرو" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="700" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="13" value="مشاهده دوربین تعمیرگاه (پخش زنده)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="800" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="14" value="مشاهده فاکتور و سوابق پرداخت‌ها" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="900" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="15" value="امتیازدهی و ثبت نظر درباره تعمیرکار" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1000" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="16" value="گفت‌وگوی آنلاین با تعمیرکار" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1100" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="17" value="ثبت گزارش تعمیر" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1200" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="18" value="مشاهده وضعیت تعمیرات خودرو" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1300" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="19" value="ارسال اعلان پایان تعمیر به مشتری" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1400" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="20" value="مدیریت کاربران و خدمات" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1500" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="21" value="مدیریت تخفیف‌ها و پرداخت‌های اقساطی" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1600" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="22" value="مشاهده گزارش‌های آماری" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1700" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="23" value="مدیریت موجودی قطعات مصرفی" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1800" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="24" value="مدیریت مراحل تعمیرات" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="1900" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="25" value="گزارش عملکرد سیستم" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="2000" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="26" value="ارسال اعلان به مشتری" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="2100" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="27" value="پشتیبان‌گیری خودکار از اطلاعات" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="2200" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="28" value="ارسال کد تأیید به ایمیل یا شماره تلفن" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="200" y="2300" width="120" height="60" as="geometry"/>
+    </mxCell>
+
+    <!-- Connections: Use Case to Actor -->
+    <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2" target="6"/>
+    <mxCell id="30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3" target="7"/>
+    <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4" target="20"/>
+    <mxCell id="32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5" target="20"/>
+  </root>
+</mxGraphModel>
